@@ -27,7 +27,7 @@ After completing this lecture, you will be able to:
 
 ## Usage
 
-### Google collab notebook option
+### Google Collab notebook option
 
 * Start [Collab notebook](https://colab.research.google.com/drive/1jen6AziZbz8ofZiA_gj4GL7EnYGaE221?usp=sharing)
 
@@ -36,9 +36,9 @@ After completing this lecture, you will be able to:
 ### Jupyter notebook/lab option
 
 * install libraries from [requirements.txt](requirements.txt) with pip
-* start [Jupyter notebook](materials/ai-in-finance-python-lecture.ipynb)
+* start [Jupyter notebook](materials/ai-in-finance-python-lecture-2024.ipynb)
 
-If you got stuck you can find solutions [here](solutions/ai-in-finance-python-lecture-solutions.ipynb)
+If you got stuck you can find solutions [here](solutions/ai-in-finance-python-lecture-2024-solutions.ipynb)
 
 ## Credits
 This lecture was set up by @EzheZhezhe and @pyladiesams
