@@ -29,9 +29,9 @@ After completing this lecture, you will be able to:
 
 ### Google Collab notebook option
 
-* Start [Collab notebook](https://colab.research.google.com/drive/1jen6AziZbz8ofZiA_gj4GL7EnYGaE221?usp=sharing)
+* Open [Collab notebook](https://colab.research.google.com/drive/1jen6AziZbz8ofZiA_gj4GL7EnYGaE221?usp=sharing)
 
-* Create a copy of the notebook in Google Drive to avoid interference with the shared notebook used for the workshop. In the menu options: File > Save a copy in Drive. This will open a copy of the notebook in a new window.
+* Create a copy of this notebook in your Google Drive. Go to Menu options: File > Save a copy in Drive. This will open a copy of the notebook in a new window.
 
 ### Jupyter notebook/lab option
 
