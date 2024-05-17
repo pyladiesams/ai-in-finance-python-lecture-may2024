@@ -20,23 +20,23 @@ After completing this lecture, you will be able to:
 
 
 ***Prerequisites***:
-* Laptop
-* Access to the internet
-* Google account (to execute code in a Google collab notebook)
+* Laptop with access to the internet
 * Basic Python knowledge
+* Google account (to execute code in a Google collab notebook)
+* OpenAI account (instructions will be provided during the lecture in the dedicated notebook)
 
 ## Usage
 
 ### Google collab notebook option
 
-* Start [Collab notebook](https://colab.research.google.com/drive/1nvDxrd66R_YU4TQu1oZnvSaygG2QC3hA?usp=sharing)
+* Start [Collab notebook](https://colab.research.google.com/drive/1jen6AziZbz8ofZiA_gj4GL7EnYGaE221?usp=sharing)
 
 * Create a copy of the notebook in Google Drive to avoid interference with the shared notebook used for the workshop. In the menu options: File > Save a copy in Drive. This will open a copy of the notebook in a new window.
 
 ### Jupyter notebook/lab option
 
 * install libraries from [requirements.txt](requirements.txt) with pip
-* start [Jupyter notebook](materials/ai-in-finance-python-lecture.ipynb) and skip the step with google collab driver mount, update PATH to your .env file
+* start [Jupyter notebook](materials/ai-in-finance-python-lecture.ipynb)
 
 If you got stuck you can find solutions [here](solutions/ai-in-finance-python-lecture-solutions.ipynb)
 
