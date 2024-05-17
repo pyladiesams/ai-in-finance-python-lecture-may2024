@@ -1,20 +1,44 @@
+# Python Lecture: AI in Finance
+### Level: Beginner
+**Instructor:** [Alyona Galyeva](https://www.linkedin.com/in/alyonagalyeva/)
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
-### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
+In this lecture we will explore how AI can be used in Finance, how to create a simple AI chatbot, and the consequences of using such an AI chatbot and other AI models in real life.
 
-## Workshop description
-Describe why your topic is important and what you want to share with your audience
+---
 
-## Requirements
-Do not forget to indicate Python version and any other tools
-+ add requirements.txt or conda.yml or docker image or Binder/Google Collab link
+
+***Learning objectives***
+
+After completing this lecture, you will be able to:
+
+* explain how AI can be used in Finance
+* create a simple AI chatbot in Python
+* combat consequences of using such an AI chatbot and other AI models in real life
+
+
+---
+
+
+***Prerequisites***:
+* Laptop
+* Access to the internet
+* Google account (to execute code in a Google collab notebook)
+* Basic Python knowledge
 
 ## Usage
-* Clone the repository
-* Start { TOOL } and navigate to the workshop folder
 
-## Video record
-Re-watch [this YouTube stream](link)
+### Google collab notebook option
+
+* Start [Collab notebook](https://colab.research.google.com/drive/1nvDxrd66R_YU4TQu1oZnvSaygG2QC3hA?usp=sharing)
+
+* Create a copy of the notebook in Google Drive to avoid interference with the shared notebook used for the workshop. In the menu options: File > Save a copy in Drive. This will open a copy of the notebook in a new window.
+
+### Jupyter notebook/lab option
+
+* install libraries from [requirements.txt](requirements.txt) with pip
+* start [Jupyter notebook](materials/ai-in-finance-python-lecture.ipynb) and skip the step with google collab driver mount, update PATH to your .env file
+
+If you got stuck you can find solutions [here](solutions/ai-in-finance-python-lecture-solutions.ipynb)
 
 ## Credits
-This workshop was set up by @pyladiesams and {your github handler}
+This lecture was set up by @EzheZhezhe and @pyladiesams
